@@ -1,0 +1,8 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+jssrc 
+
+# The default location where apk and kar files are placed when doing a handless builds 
+binaries
+*.apk	
+*.KAR
+
